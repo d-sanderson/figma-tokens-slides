@@ -1,4 +1,8 @@
+<!-- section-title: 4 - Designer Workflow -->
 ## Designer Workflow
 
-- a designer makes update(s) to a variable in figma.
-- using the Tokens Studio Figma Plugin, a designer pushes the updated tokens (w3c compliant design tokens) to github and opens a PR on the `develop` branch.
+1. A designer updates variables in Figma.
+2. Using the Tokens Studio Figma Plugin:
+    - A designer imports the updated Figma variables.
+    - A designer pushes the updated tokens (W3C compliant design tokens) to the `develop` branch.
+    - A designer opens a pull request to merge `develop` into `main`.
