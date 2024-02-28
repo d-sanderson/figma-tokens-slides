@@ -3,7 +3,7 @@
 # Problem
 
 - It's hard to implement pixel perfect figma designs! 
-- figma gets out of sync with ticketing :(
+- ticketing gets out of sync with figma :(
 
 ![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTk5OWJyb2t0ODBiaXh4cjZnM2w4aHVkeTE0aWhuOXJ6MGp4enY3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IEfgN9khWfWn2xaN6w/giphy.gif)
 
