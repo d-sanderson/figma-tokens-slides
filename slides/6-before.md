@@ -1,3 +1,3 @@
 <!-- section-title: 6 - Before -->
-![image](./2.png)
-
+## Before
+![image](./1.png)

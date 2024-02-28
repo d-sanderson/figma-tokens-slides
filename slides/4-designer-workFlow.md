@@ -1,4 +1,9 @@
 <!-- section-title: 4 - Designer Workflow -->
+
+<!-- note
+What does that look like irl? lets start with the designer
+-->
+
 ## Designer Workflow
 
 1. A designer updates variables in Figma.
