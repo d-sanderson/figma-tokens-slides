@@ -2,7 +2,7 @@
 
 # Problem
 
-- It's hard to implement pixel figma designs! 
+- It's hard to implement pixel perfect figma designs! 
 
 ![image](./1.png)
 <!-- note
